@@ -5,6 +5,7 @@
 Greetings, Java Hipster!
 
 How to use source of jhipster-generator.
+
 https://github.com/jhipster/generator-jhipster/blob/master/CONTRIBUTING.md#setup
 Full documentation and information is available on our website at [https://www.jhipster.tech/][jhipster-url]
 
