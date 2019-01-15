@@ -4,6 +4,8 @@
 
 Greetings, Java Hipster!
 
+How to use source of jhipster-generator.
+https://github.com/jhipster/generator-jhipster/blob/master/CONTRIBUTING.md#setup
 Full documentation and information is available on our website at [https://www.jhipster.tech/][jhipster-url]
 
 Please read our [guidelines](/CONTRIBUTING.md#submitting-an-issue) before submitting an issue. If your issue is a bug, please use the bug template pre-populated [here](issue-template). For feature requests and queries you can use [this template][feature-template].
